@@ -1,18 +1,15 @@
-/* styles/website.css */
-.markdown-section {
- background: #f0f8ff;
- padding: 30px;
- border-radius: 8px;
- border-left: 5px solid #0066cc;
+/* Hide entire element */
+a.font-semibold:nth-child(2) {
+  display: none;
 }
 
-.page-title {
- color: #0066cc;
- font-size: 32px;
+/* Or hide just the GitBook icon */
+a.font-semibold:nth-child(2) .gb-icon {
+  display: none;
 }
 
-.navigation-link {
- background: #e6f3ff;
- margin: 5px;
- padding: 10px;
+/* Or modify appearance */
+a.font-semibold:nth-child(2) {
+  color: #333;
+  opacity: 0.5;
 }
