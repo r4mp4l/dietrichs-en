@@ -27,9 +27,9 @@
 
 > ***Roof Design Tutorial***
 >
-> ![](mediaRoof/media/image2.png){width="3.85in" height="2.75in"}
+> ![](mediaRoof/media/image2.png)
 >
-> ![](mediaRoof/media/image3.jpg){width="3.9066666666666667in" height="2.901666666666667in"}
+> ![](mediaRoof/media/image3.jpg)
 
 # 1 Table of Contents 
 
@@ -159,9 +159,9 @@ The slope of a roof is another important feature. Roofs between 5° and 40° are
 
 > **[Shed roof:]{.underline}**
 >
-> ![](mediaRoof/media/image6.jpg){width="1.5008136482939634in" height="1.2441666666666666in"}The shed roof is one of the simplest styles of roof. It is costeffective because only one side of the roof is sloped. This type of roof design is mainly found in [Mediterranean](http://dict.leo.org/se?lp=ende&p=/Mn4k.&search=Mediterranean) areas. However, this design is getting more and more common, especially for green houses. The high front wall usually faces the south and thus helps *~Figure\ 1:\ Shed\ roof~* to accumulate the sunlight and heat.
+> ![](mediaRoof/media/image6.jpg)The shed roof is one of the simplest styles of roof. It is costeffective because only one side of the roof is sloped. This type of roof design is mainly found in [Mediterranean](http://dict.leo.org/se?lp=ende&p=/Mn4k.&search=Mediterranean) areas. However, this design is getting more and more common, especially for green houses. The high front wall usually faces the south and thus helps *~Figure\ 1:\ Shed\ roof~* to accumulate the sunlight and heat.
 >
-> ![](mediaRoof/media/image8.png){width="1.29in" height="1.33in"}**[Gable roof:]{.underline}**
+> ![](mediaRoof/media/image8.png)**[Gable roof:]{.underline}**
 
 *Figure 2:*
 
@@ -175,7 +175,7 @@ The gable roof is the most widespread style of roof. Because of its simple const
 >
 > *Figure 3: Gambrel roof*
 >
-> ![](mediaRoof/media/image9.jpg){width="1.79544072615923in" height="1.3766666666666667in"}![](mediaRoof/media/image10.jpg){width="1.896894138232721in" height="1.3775in"}![](mediaRoof/media/image11.jpg){width="1.5131878827646543in" height="1.3783333333333334in"}**[Hipped roof:]{.underline}**
+> ![](mediaRoof/media/image9.jpg)![](mediaRoof/media/image10.jpg)![](mediaRoof/media/image11.jpg)**[Hipped roof:]{.underline}**
 
 All four roof surfaces of the hipped roof are sloped. Consequently there is less space in the attic. Nevertheless, it can be a nice feature of a building.
 
@@ -193,7 +193,7 @@ can be a disadvantage. *~Figure\ 6:~ Pyramid hip roof*
 
 > **[Flat roof:]{.underline}**
 >
-> ![](mediaRoof/media/image12.jpg){width="1.8684623797025373in" height="1.375in"}Flat roofs appear level but always have some slope to allow water to run off. The advantage of that design is that the entire volume of the building can be used without a pitch. Flat roofs are mainly used on industrial buildings. Nevertheless, there are also a lot of nice possibilities for a house, such as roof decks or *~Figure\ 7:\ Flat\ roof~* living roofs, which are covered with vegetation.
+> ![](mediaRoof/media/image12.jpg)Flat roofs appear level but always have some slope to allow water to run off. The advantage of that design is that the entire volume of the building can be used without a pitch. Flat roofs are mainly used on industrial buildings. Nevertheless, there are also a lot of nice possibilities for a house, such as roof decks or *~Figure\ 7:\ Flat\ roof~* living roofs, which are covered with vegetation.
 
 ## 3.2 Overview of Roof Construction 
 
@@ -433,7 +433,7 @@ A mnemonic to find the location of the *eave point* could be: *"The eave point i
 
 This point is used to determine the *eave height*. The eaves are displayed in the picture below.
 
-> ![](mediaRoof/media/image25.png){width="3.3666666666666667in" height="1.9266666666666667in"}
+> ![](mediaRoof/media/image25.png)
 
 *Figure 16: Eaves*
 
@@ -520,7 +520,7 @@ The table below provides an overview of roofs which will be designed in this tut
 +---------+--------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+-----------------------+
 | **Nr.** | > **Roof type**                                                                                        | > **Roof body**                                                                                | > **Features**        |
 +=========+========================================================================================================+================================================================================================+=======================+
-| **A**   | [Hipped roof with equal]{.underline} [roof slopes and square]{.underline} [ground plan]{.underline}    | > ![](mediaRoof/media/image33.jpg){width="1.3537510936132984in" height="0.9825in"}             | Square ground plan    |
+| **A**   | [Hipped roof with equal]{.underline} [roof slopes and square]{.underline} [ground plan]{.underline}    | > ![](mediaRoof/media/image33.jpg)             | Square ground plan    |
 |         |                                                                                                        |                                                                                                |                       |
 |         |                                                                                                        |                                                                                                | Equal roof slopes     |
 |         |                                                                                                        |                                                                                                |                       |
