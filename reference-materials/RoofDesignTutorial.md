@@ -1,27 +1,3 @@
--   [[1]{.toc-section-number} 1 Table of Contents ](#table-of-contents){#toc-table-of-contents}
--   [[2]{.toc-section-number} 2 Introduction ](#introduction){#toc-introduction}
-    -   [[2.1]{.toc-section-number} 2.1 How to Use this Manual ](#how-to-use-this-manual){#toc-how-to-use-this-manual}
-    -   [[2.2]{.toc-section-number} 2.2 Requirements ](#requirements){#toc-requirements}
--   [[3]{.toc-section-number} 3 Fundamental Knowledge of Wooden Roofs ](#fundamental-knowledge-of-wooden-roofs){#toc-fundamental-knowledge-of-wooden-roofs}
-    -   [[3.1]{.toc-section-number} 3.1 Different Roof Styles ](#different-roof-styles){#toc-different-roof-styles}
-    -   [[3.2]{.toc-section-number} 3.2 Overview of Roof Construction ](#overview-of-roof-construction){#toc-overview-of-roof-construction}
--   [[4]{.toc-section-number} 4 Roof Design ](#roof-design){#toc-roof-design}
-    -   [[4.1]{.toc-section-number} 4.1 Definitions ](#definitions){#toc-definitions}
-    -   [[4.2]{.toc-section-number} 4.2 Execution of Roof Designs ](#execution-of-roof-designs){#toc-execution-of-roof-designs}
-        -   [[4.2.1]{.toc-section-number} A Hipped Roof with Equal Roof Slopes and Square Ground Plan ](#a-hipped-roof-with-equal-roof-slopes-and-square-ground-plan){#toc-a-hipped-roof-with-equal-roof-slopes-and-square-ground-plan}
-        -   [[4.2.2]{.toc-section-number} B Hipped Roof with Equal Roof Slopes and Irregular Ground Plan ](#b-hipped-roof-with-equal-roof-slopes-and-irregular-ground-plan){#toc-b-hipped-roof-with-equal-roof-slopes-and-irregular-ground-plan}
-        -   [[4.2.3]{.toc-section-number} C Ridged Roof with Unequal Roof Slopes and Square Ground Plan ](#c-ridged-roof-with-unequal-roof-slopes-and-square-ground-plan){#toc-c-ridged-roof-with-unequal-roof-slopes-and-square-ground-plan}
-        -   [[4.2.4]{.toc-section-number} D Hipped Roof with Unequal Roof Slopes and Square Ground Plan ](#d-hipped-roof-with-unequal-roof-slopes-and-square-ground-plan){#toc-d-hipped-roof-with-unequal-roof-slopes-and-square-ground-plan}
-        -   [[4.2.5]{.toc-section-number} E Hipped Roof with Equal Roof Slopes and Square, Complex Ground Plan ](#e-hipped-roof-with-equal-roof-slopes-and-square-complex-ground-plan){#toc-e-hipped-roof-with-equal-roof-slopes-and-square-complex-ground-plan}
-        -   [[4.2.6]{.toc-section-number} F Hipped Roof with Unequal Roof Slopes and Irregular Ground Plan ](#f-hipped-roof-with-unequal-roof-slopes-and-irregular-ground-plan){#toc-f-hipped-roof-with-unequal-roof-slopes-and-irregular-ground-plan}
-        -   [[4.2.7]{.toc-section-number} G Hipped Roof with Square Ground Plan and an Addition with a Different ](#g-hipped-roof-with-square-ground-plan-and-an-addition-with-a-different){#toc-g-hipped-roof-with-square-ground-plan-and-an-addition-with-a-different}
-    -   [[4.3]{.toc-section-number} 4.2 Design Steps for Roof Designs ](#design-steps-for-roof-designs){#toc-design-steps-for-roof-designs}
-    -   [[4.4]{.toc-section-number} 4.3 Determination of True Areas and Dimensions ](#determination-of-true-areas-and-dimensions){#toc-determination-of-true-areas-and-dimensions}
-        -   [[4.4.1]{.toc-section-number} A Hipped Roof with Equal Roof Slopes and Square Ground Plan ](#a-hipped-roof-with-equal-roof-slopes-and-square-ground-plan-1){#toc-a-hipped-roof-with-equal-roof-slopes-and-square-ground-plan-1}
-        -   [[4.4.2]{.toc-section-number} B Hipped Roof with Equal Roof Slopes and Irregular Ground Plan ](#b-hipped-roof-with-equal-roof-slopes-and-irregular-ground-plan-1){#toc-b-hipped-roof-with-equal-roof-slopes-and-irregular-ground-plan-1}
--   [[5]{.toc-section-number} 5 How to Use the Dietrich's Software for Roof Designs ](#how-to-use-the-dietrichs-software-for-roof-designs){#toc-how-to-use-the-dietrichs-software-for-roof-designs}
--   [[6]{.toc-section-number} 6 List of Figures ](#list-of-figures){#toc-list-of-figures}
--   [[7]{.toc-section-number} 7 List of Tables ](#list-of-tables){#toc-list-of-tables}
 
 ![](mediaRoof/media/image1.jpg){width="3.11in" height="0.4025in"}
 
