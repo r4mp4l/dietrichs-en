@@ -42,6 +42,6 @@
   * [Profile Modifications](profile-based-workflow/profile-modifications.md)
 * [Drawings](drawings-1.md)
 * [Reference Materials](reference-materials/README.md)
-  
+  * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
   * [Tutorial](reference-materials/tutorial/README.md)
-    * [Roof Design Tutorial](reference-materials/tutorial/roof-design-tutorial.md)
+    
