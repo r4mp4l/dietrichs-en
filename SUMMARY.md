@@ -42,12 +42,6 @@
   * [Profile Modifications](profile-based-workflow/profile-modifications.md)
 * [Drawings](drawings-1.md)
 * [Reference Materials](reference-materials/README.md)
-  * [Dietrich's ENG\_ABC](reference-materials/dietrichs-eng_abc.md)
-  * [Roof Design Tutorial](reference-materials/roof-design-tutorial.md)
+  
   * [Tutorial](reference-materials/tutorial/README.md)
     * [Roof Design Tutorial](reference-materials/tutorial/roof-design-tutorial.md)
-  * [IFC\_Ud22](reference-materials/ifc_ud22.md)
-  * [Joe's Big File](reference-materials/dack-help-from-bitbook.md)
-  * [WorkPlanes V 2](reference-materials/workplanes-v-2.md)
-  * [File 1](reference-materials/file-1.md)
-  * [dachelp](reference-materials/dachelp3.md)
