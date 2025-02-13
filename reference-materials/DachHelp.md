@@ -1,26 +1,4 @@
--   [[1]{.toc-section-number} \
-    Bauwerk, Modellbereiche](#bauwerk-modellbereiche){#toc-bauwerk-modellbereiche}
-    -   [[1.1]{.toc-section-number} Bauwerke](#bauwerke){#toc-bauwerke}
-    -   [[1.2]{.toc-section-number} Modellbereiche](#modellbereiche){#toc-modellbereiche}
-    -   [[1.3]{.toc-section-number} Dateioperationen](#dateioperationen){#toc-dateioperationen}
--   [[2]{.toc-section-number} Messfunktionen](#messfunktionen){#toc-messfunktionen}
--   [[3]{.toc-section-number} Arbeitsumgebung](#arbeitsumgebung){#toc-arbeitsumgebung}
--   [[4]{.toc-section-number} Dachausmittlung](#dachausmittlung){#toc-dachausmittlung}
-    -   [[4.1]{.toc-section-number} Datei - Einstellungen](#datei---einstellungen){#toc-datei---einstellungen}
-    -   [[4.2]{.toc-section-number} Datei - Import - DXF-Linien](#datei---import---dxf-linien){#toc-datei---import---dxf-linien}
-    -   [[4.3]{.toc-section-number} Dacheingaben - Allgemein](#dacheingaben---allgemein){#toc-dacheingaben---allgemein}
-    -   [[4.4]{.toc-section-number} Dacheingaben - Dachausmittlung](#dacheingaben---dachausmittlung){#toc-dacheingaben---dachausmittlung}
-    -   [[4.5]{.toc-section-number} Dacheingaben - Direkte Dacheingabe](#dacheingaben---direkte-dacheingabe){#toc-dacheingaben---direkte-dacheingabe}
-    -   [[4.6]{.toc-section-number} Dacheingaben - Gaube](#dacheingaben---gaube){#toc-dacheingaben---gaube}
-    -   [[4.7]{.toc-section-number} Dachbearbeitung](#dachbearbeitung){#toc-dachbearbeitung}
-    -   [[4.8]{.toc-section-number} Dachgestaltung](#dachgestaltung){#toc-dachgestaltung}
-    -   [[4.9]{.toc-section-number} Ziegel / Dachbereiche](#ziegel-dachbereiche){#toc-ziegel-dachbereiche}
-    -   [[4.10]{.toc-section-number} Öffnungen](#öffnungen){#toc-öffnungen}
-    -   [[4.11]{.toc-section-number} Hilfsgeometrie](#hilfsgeometrie){#toc-hilfsgeometrie}
-    -   [[4.12]{.toc-section-number} Ansicht, Schnitte](#ansicht-schnitte){#toc-ansicht-schnitte}
-    -   [[4.13]{.toc-section-number} Ergebnisse](#ergebnisse){#toc-ergebnisse}
-
-**7. Bauwerk: Dachausmittlung**
+# 7. Bauwerk: Dachausmittlung
 
 ##  Bauwerk, Modellbereiche
 
