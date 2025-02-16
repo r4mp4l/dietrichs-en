@@ -21,7 +21,7 @@ layout:
 
 # Dietrich's Intelligent Documentation
 
-Transform your workflow with our AI-powered documentation site designed to support your learning  and enhance productivity. Our intelligent platform understands your queries in natural language, making it easier than ever to find the information you need. It has a traditional navigation on the left.&#x20;
+Enhance your workflow with our AI-powered documentation site designed to support your learning  and increase  productivity. Our intelligent platform understands your queries in natural language, making it easier than ever to find the information you need. It also has a traditional navigation on the left.&#x20;
 
 ### AI-Powered Search  Or  Browse Article Categories
 
@@ -45,6 +45,8 @@ This site provides information on the following categories:
 ### Start Exploring
 
 Ready to begin? Use our AI-powered search bot to explore the documentation. Simply type your question in natural language, and let our intelligent assistant guide you to the right information.
+
+<figure><img src=".gitbook/assets/2025_02_16_18_04_06_Dietrich_s_Intelligent_Documentation_Dietrich_s_Documentation_Mozilla_Firefo.png" alt=""><figcaption><p>How to access the Dietrich's AI </p></figcaption></figure>
 
 For example, try asking:
 
