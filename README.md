@@ -19,15 +19,9 @@ layout:
 
 # Dietrich's Intelligent Documentation
 
-Start here to learn how to use the Dietrich's platform
-
-<figure><img src=".gitbook/assets/images.jpg" alt=""><figcaption></figcaption></figure>
-
-## Welcome to Dietrich's Software Documentation
-
 Transform your workflow with our AI-powered software suite designed to support your learning  and enhance productivity. Our intelligent platform understands your queries in natural language, making it easier than ever to find the information you need. It has a traditional navigation on the left.&#x20;
 
-### [#ai-powered-search](./#ai-powered-search "mention")
+### AI-Powered Search
 
 Get answers instantly with our advanced AI search assistant. Simply ask questions in your own words, and our intelligent bot will understand your intent, provide relevant documentation, guide you through complex processes, and offer contextual suggestions based on your query.
 
@@ -55,8 +49,3 @@ For example, try asking:
 * "How do I design a Roof"?
 * "How do I create a work plane"?
 
-
-
-***
-
-Get started now by installing Dietrichs Software or exploring our detailed documentation sections above.
