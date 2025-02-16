@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [About This Site](README.md)
+* [Introduction](<README (1).md>)
   * [About Dietrich's](introduction/about-dietrichs.md)
   * [System Requirements](introduction/system-requirements.md)
   * [Installation Guide](introduction/installation-guide.md)
@@ -46,4 +47,3 @@
   * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
   * [WorkPlanes](reference-materials/Dicam-WorkPlanes.md)
   * [Tutorial](reference-materials/tutorial/README.md)
-    
