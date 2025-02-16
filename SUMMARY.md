@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About This Site](README.md)
+* [Dietrich's Intelligent Documentation](README.md)
 * [Introduction](<README (1).md>)
   * [About Dietrich's](introduction/about-dietrichs.md)
   * [System Requirements](introduction/system-requirements.md)
