@@ -1,10 +1,12 @@
 ---
-cover: .gitbook/assets/Holzkonstruktion-Dach-Sparrenpfetten-min.jpg
+cover: >-
+  .gitbook/assets/Firefly draw a male carpenter with a ai biped robot assisting
+  him standing behind him . they are sta(3).jpg
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +21,7 @@ layout:
 
 # Dietrich's Intelligent Documentation
 
-Transform your workflow with our AI-powered software suite designed to support your learning  and enhance productivity. Our intelligent platform understands your queries in natural language, making it easier than ever to find the information you need. It has a traditional navigation on the left.&#x20;
+Transform your workflow with our AI-powered documentation site designed to support your learning  and enhance productivity. Our intelligent platform understands your queries in natural language, making it easier than ever to find the information you need. It has a traditional navigation on the left.&#x20;
 
 ### AI-Powered Search  Or  Browse Article Categories
 
