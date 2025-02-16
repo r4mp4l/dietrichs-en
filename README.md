@@ -1,5 +1,10 @@
 ---
+cover: reference-materials/media-workplanes/media/image143.jpeg
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
