@@ -1,5 +1,5 @@
 ---
-cover: reference-materials/media-workplanes/media/image143.jpeg
+cover: .gitbook/assets/Holzkonstruktion-Dach-Sparrenpfetten-min.jpg
 coverY: 0
 layout:
   cover:
@@ -21,11 +21,11 @@ layout:
 
 Transform your workflow with our AI-powered software suite designed to support your learning  and enhance productivity. Our intelligent platform understands your queries in natural language, making it easier than ever to find the information you need. It has a traditional navigation on the left.&#x20;
 
-### AI-Powered Search
+### AI-Powered Search  Or  Browse Article Categories
 
 Get answers instantly with our advanced AI search assistant. Simply ask questions in your own words, and our intelligent bot will understand your intent, provide relevant documentation, guide you through complex processes, and offer contextual suggestions based on your query.
 
-This site provides information on the following:
+This site provides information on the following categories:
 
 * System Requirements, Installation and Configuration
 * Core Modules
