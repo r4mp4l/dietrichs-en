@@ -3,9 +3,9 @@
 # Introduction
 
 This training document includes a project that can be downloaded with the following link: [[http://u.dhp.de/sp-ae]{.underline}](http://u.dhp.de/sp-ae)
->
+
 The training document consists of four parts.
->
+
 **The first part** explains the attributes and functions of work planes. This results in advantageous working methods, which are shown in individual, non-contiguous examples.
 
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
@@ -34,15 +34,13 @@ The training document consists of four parts.
 
 +-------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
 | ![](media-workplanes/media/image10.png) | ![](media-workplanes/media/image11.png) |
-+=======================================================================================================+=======================================================================================================+
-+-------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
 
 The first working plane can be seen at the coordinate origin.
->
+
 ![](media-workplanes/media/image12.jpeg)There is an icon for entering a rectangular cross-section as a member or profile member in space:
->
+
 **Constant cross section** General.
->
+
 There are four icons for entering parts in the plane.
 
 ![](media-workplanes/media/image13.png)
@@ -73,7 +71,7 @@ The possibility of 3D input is available at any time - without special changes.
 -   ![A drawing of a rectangular object AI-generated content may be incorrect.](media-workplanes/media/image23.png)
 
 If a **constant cross-section** is generated as a \"member along X\", \"member along Y\", \"member with angle\" or \"member over 2 points\", then inputs always refer to the current working plane.
->
+
 All points and lines selected in the space are projected onto the working plane:
 
 +-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
@@ -86,7 +84,7 @@ All points and lines selected in the space are projected onto the working plane:
 ![](media-workplanes/media/image27.png)
 
 The input of a \"general constant cross-section\" from \"point to point\" or with the \"Align\" option does not take working planes into account. The current coordinate system has no meaning in this case. However, if, for example, an axis-parallel alignment (parallel X, parallel Y, and parallel
->
+
 Z\) is selected for the \"general constant cross-section\", the input is oriented to the coordinate system of the current working plane.
 
 -   We create a \"general constant cross section\" with the alignment parallel Z at the origin of the vertical working plane.
@@ -116,7 +114,7 @@ In the training project D-CAM work planes, we open the building position AE1
 ## Typical cases of work planes
 
 There are four functions for defining work planes. These should lead as quickly as possible to the work planes normally required.
->
+
 ![](media-workplanes/media/image31.png)
 
 ## The horizontal work plane
@@ -141,9 +139,9 @@ A horizontal work plane rotated in the ground is achieved with three clicks:
 ![](media-workplanes/media/image34.png)
 
 Notes
->
+
 New work planes can be defined at any time while working in work planes.
->
+
 The building navigation allows a comfortable switching between the work planes.
 
 ![](media-workplanes/media/image35.jpeg)
@@ -153,11 +151,11 @@ The building navigation allows a comfortable switching between the work planes.
 -   To create the vertical working plane, we select the appropriate icon and the top corner of the plate. Confirm the following question about the viewing direction with a right mouse click.
 
 ![](media-workplanes/media/image36.png)
->
+
 The program automatically creates a work plane that is vertical, whose X axis is horizontal, and whose selected line is completely in the positive range, with the start of the line at the origin.
->
+
 In principle, this applies to all vertical working planes regardless of the orientation of the selected line in space.
->
+
 Notes
 
 -   We select a rafter lower edge for the next work plane:
@@ -203,7 +201,7 @@ When creating work planes using points and lines, the first two points always de
 +-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
 
 Notes
->
+
 If the component edge in the image is selected at the lower end, then the work plane lies on the frame. If the component edge is selected at the upper end, the component is then on the work plane. The end of the line closer to the click point is interpreted as the first point.
 
 ## The work plane on the component axis
@@ -224,23 +222,23 @@ We create a work planes with the component axis of the rafter. These two possibi
 +------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
 
 The functions for defining work plane should lead as quickly as possible and easily to the work plane regularly required.
->
+
 Notes
 
 ## Selection of work planes
 
 ![](media-workplanes/media/image47.png)In the building navigation, you can change attributes, the number and the name of work planes with \"Mouse right\":
->
+
 With pressed left mouse button, they can be moved as desired in the building navigation and can be deleted with right mouse button or the delete button.
->
-![](media-workplanes/media/image48.jpeg)In the menu under \>\" View / Section\" \>\" Work planes\" all functions concerning the work planes are also accessible:
->
+
+![](media-workplanes/media/image48.jpeg)In the menu under \\" View / Section\" \\" Work planes\" all functions concerning the work planes are also accessible:
+
 Notes
 
 ## Positioning work planes
 
 Work planes can be moved, rotated and moved parallel. The viewing direction of a work plane can also be changed. With \"Mouse Right", a work plane can be selected at its origin or at the outer boundary line.
->
+
 Important:
 
 -   **Components** are and always independent of the work plane. If work planes are changed or deleted, the components are always retained.
@@ -275,9 +273,9 @@ Notes
 -   We select the option "offset parallel \".
 
 This function only causes a parallel Z shift. If the selected new point is not on the Z-axis of the work plane, it is projected onto the Z-axis and the origin of the work planes is moved there.
->
+
 Components created in this plane keep their position; all 2D plan elements of this working plane are offset.
->
+
 Notes
 
 +-------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
@@ -294,7 +292,7 @@ The work planes are infinitely large. The viewing area of a work plane has a var
 -   ![](media-workplanes/media/image55.png)We create a post in the work plane that was modified and select the plate end as the positioning point.
 
 The plate endpoint is projected into the working plane outside its visible area to create the post.
->
+
 Notes
 
 ## Grid settings of a work plane
@@ -321,17 +319,17 @@ It is useful to save grid settings for various purposes, such as
 -   **Building input,**
 
 The setting of the work plane that was last selected with Dialog is reused when a new work plane is created.
->
+
 When creating a new work plane, you can first accept the offered setting and then select the desired favorite.
->
+
 The grid of a work plane can be switched off and on again at any time during input with the short cut key \"R\".
 
 -   We select a component for input and, while the component outline is visible at the crosshairs, press the shortcut key \"R\" several times.
 
 ![](media-workplanes/media/image60.png)
->
+
 Notes
->
+
 ![](media-workplanes/media/image61.png)
 
 ## Display settings for working planes
@@ -364,9 +362,9 @@ In the training project, we open the building position HR1
 +--------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
 
 Notes
->
+
 ![](media-workplanes/media/image66.jpeg)
->
+
 ![](media-workplanes/media/image67.jpeg)The clipbox describes the spatial display boundaries that belong to a work plane. The borders of this clipbox are saved as well as the grid settings on the respective work plane:
 
 -   Favorites for settings and display allow you to work quickly!
@@ -386,17 +384,17 @@ In the training project we open the building position AE2
 -   ![](media-workplanes/media/image68.jpeg)We enter a post .120x.120x2.000 in Y-direction:
 
 There is no Depth Position: as in walls and ceilings when entering beam and profile beams in work planes. This must be taken into account for the depth positioning.
->
+
 The assignment to the correct MOS must also be selected, although it is possible to select it from existing components.
->
+
 The Sheathing input works in principle the same way:
 
 -   We create an OSB board at the front of the plate, flush with the bottom of the post.
 
 Notes
->
+
 ![](media-workplanes/media/image69.jpeg)
->
+
 Boards are not automatically limited by slice contours, as is the case in walls and ceilings. Therefore, they have to be cut manually.
 
 -   We switch on the remaining components.
@@ -405,10 +403,8 @@ Boards are not automatically limited by slice contours, as is the case in walls 
 
 -   We distribute between the rafters, trimmers (8x20), starting at the eaves point. The upper end of the distribution is the lower perpendicular section point angled on the top of the rafters:
 
-+--------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image70.jpeg) | ![](media-workplanes/media/image71.jpeg) | ![](media-workplanes/media/image72.jpeg) |
-+========================================================================================================+==========================================================================================+==========================================================================================+
-+--------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+ 
+![](media-workplanes/media/image70.jpeg) | ![](media-workplanes/media/image71.jpeg) | ![](media-workplanes/media/image72.jpeg) |
 
 -   We select the work plane \"Vertical plate\".
 
@@ -420,10 +416,7 @@ Boards are not automatically limited by slice contours, as is the case in walls 
 
 Notes
 
-+-------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image73.png) | ![](media-workplanes/media/image74.png) |
-+=======================================================================================================+=======================================================================================================+
-+-------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
+![](media-workplanes/media/image73.png) | ![](media-workplanes/media/image74.png) |
 
 Before copying, it is essential to switch to the vertical work plane on the outside of the plate: this will catch the corner of the bird's mouth when reading the element, which is important for positioning at the front edge of the plate. If you remain in the inclined working plane, then this is not possible!
 
@@ -434,9 +427,9 @@ Before copying, it is essential to switch to the vertical work plane on the outs
 -   ![](media-workplanes/media/image75.png)We draw an arched window into the current work plane, offset the lines inwards by 0.200 and connect the inner lines with the Corner function.
 
 functions
->
+
 When the 2D drawing elements are called up, the work plane automatically rotates into its view. The functionality of the 2D plan elements is the same as in the other building modules.
->
+
 Notes
 
 -   We then extrude the frame using these 2D lines.
@@ -454,23 +447,23 @@ Notes
 -   We delete the work plane.
 
 The 2D drawing elements are also deleted.
->
+
 Notes
 
 # Work planes - Example on a carpenter\'s saw horse. (trestle)
 
 The saw horse is used to apply and practice the explanations of work planes from training part 1, Introduction.
->
+
 When entering components in the working plane, the depth positioning is always flush with the front unless otherwise specified.
->
+
 The unit for all lengths is meter.
 
 ![](media-workplanes/media/image79.png)
 
 We create a new building position called CSH.
->
+
 A saw horse is planned with a squared timber as support with a cross section of 0.120 x 0.120, with a height of 0.770. The legs of the saw horse have a cross-section of 0.080 x 0.080, the other struts a cross-section of 0.060 x 0.060.
->
+
 Notes
 
 -   We start with the horizontal, global work plane, and we adjust its size and grid according to the space requirements of the saw horse in the plan view;
@@ -480,23 +473,23 @@ Notes
 ![](media-workplanes/media/image80.png)
 
 ![](media-workplanes/media/image81.jpeg)The first timber to be positioned is our support 0.120 x 0.120. When choosing a constant cross section General - with 2-1-1 - a click point in our work plane is sufficient to position the square timber correctly immediately.
->
+
 Notes
 
 -   ![](media-workplanes/media/image82.png)The settings for it and the result are shown in the next two images:
 
 ![](media-workplanes/media/image83.png)
->
+
 Notes
->
+
 The next step is the positioning of the legs. The upper point of a leg\'s origin should be 0.200 from the end of the support timber, from here the edge of the leg runs to the next corner of the work plane.
 
 -   ![](media-workplanes/media/image84.png)For this we set (with 4-1-1 and B for reference point) a 3D auxiliary geometry point at the top of the support timber:
 
 Notes
->
+
 Relative to our work plane, the legs are each inclined in two directions. On the narrow side, the legs are connected by an Andrew\'s cross and must be flush, i.e. they lie in the same plane like tilted jacks with a side surface.
->
+
 This defines our first arbitrary work plane \"legs narrow side\".
 
 -   We create the arbitrary work plane, as shown in the picture. The order of the points is important so that the coordinate system of the plane fits!
@@ -522,15 +515,15 @@ The leg is now to be connected to the saw horse (trestle) with an angled end lap
 -   With 9-2-5 we create a vertical work plane, named \"angled end lap\", as shown in the picture:
 
 ![](media-workplanes/media/image88.png)
->
+
 Notes
->
+
 ![](media-workplanes/media/image89.png)
 
 -   With the function 2-1-7 beam 2 points we position a board with 0,020 thickness and 0,080 width at the connection from the upper leg end to the support timber.
 
 Choosing points: From the 3D auxiliary geometry point to the intersection point of the outside leg to the lower edge of the support timber.
->
+
 ![](media-workplanes/media/image90.png)
 
 -   We switch to the Global System and create a 3D point in the middle of the top support timber.
@@ -550,7 +543,7 @@ Notes
 -   Then we position a help timber for the creation of the birds mouth at the upper end of the legs, with beam along x (2-1-4) as shown in the next picture:
 
 Notes
->
+
 ![](media-workplanes/media/image93.png)
 
 -   We switch to the global work plane, create a birds mouth in the leg with 3-7-1 and the auxiliary component, then disband the birds mouth in the leg and delete the help timber.
@@ -558,7 +551,7 @@ Notes
 -   ![](media-workplanes/media/image94.jpeg)Then we mirror and copy the leg as it is already described with the help timber for the lap joint.
 
 The saw horse (trestle) should be in this stage of completion.
->
+
 Notes
 
 -   For the input of an Andreas brace for bracing at the beginning of the saw horse we change to the work plane \"legs narrow side\".
@@ -603,9 +596,9 @@ Notes
 -   In the work plane we then draw a line for the top of the longitudinal brace to avoid overlapping with the Andreas brace, and temporarily enter the brace with a thickness of only 0.020:
 
 ![](media-workplanes/media/image101.png)
->
+
 The input is made here over the entire width of the raster area. Since the brace and the outer sides of the legs on this side are not flush, normal lap jointing is not possible.
->
+
 Notes
 
 -   With the created board we now create a lap joint with full board thickness of 0.020 and disband this connection lap joint in both legs, creating a free lap joint.
@@ -614,8 +607,8 @@ We delete the board and then create the actual longitudinal strut in the same le
 
 -   We cut the longitudinal brace at the ends flush with the surface of the legs.
 
-Now we create a V-cut. A birds mouth is not possible here because the angle between the legs and the longitudinal brace is 93.45°. Therefore, we customize the longitudinal brace with 3-6-1 by a V-cut and the option \< four points \>, with selection of the longitudinal brace for the V-cut and point selection on the leg in the order shown:
->
+Now we create a V-cut. A birds mouth is not possible here because the angle between the legs and the longitudinal brace is 93.45°. Therefore, we customize the longitudinal brace with 3-6-1 by a V-cut and the option \< four points \, with selection of the longitudinal brace for the V-cut and point selection on the leg in the order shown:
+
 ![](media-workplanes/media/image102.jpeg)
 
 -   For the installation of the Andreas brace and the longitudinal brace on the opposite sides we now proceed as described above.
@@ -629,15 +622,15 @@ Notes
 # Work planes - example of an application on a carport
 
 The carport is used to apply and practice the explanations of work planes from Training Part 1, Introduction.
->
+
 When entering components in the work plane, the depth positioning is always flush with the front unless otherwise specified.
->
+
 The unit for all length specifications is meter.
 
 ![](media-workplanes/media/image104.jpeg)
 
 Notes
->
+
 We create a building C01
 
 -   We start with a horizontal work plane \"base area\" with origin and orientation as with the global system, and adjust its size and grid according to the space requirements of the carport in the ground;
@@ -647,17 +640,17 @@ We create a building C01
 -   Then we create a vertical working plane \"gable wall\" parallel global Y, whose zero point is on the back corner of the first working plane, with 6,000 in direction X and 5,000 in direction Y with the same grid spacing:
 
 ![](media-workplanes/media/image106.png)
->
+
 Notes
 
 -   With the 2D component input \" beam along Y\" (2-1-5) and the following settings we position a glulam corner post 0,160 x 0,160 of this wall at the left edge of the vertical work plane:
 
 ![](media-workplanes/media/image107.png)
->
+
 The \"Select\" setting for the **positioning point** allows us to quickly place the correct corner of the post by toggling with the right mouse button (here, place it in the grid layer with the mouse on the right):
->
+
 ![](media-workplanes/media/image108.png)
->
+
 Notes
 
 -   Above it we set (with 2-1-4) as \" beam along X\" a glulam beam, 0.160 x 0.240, with a cross section rotated by 90°, because the width of a component (as in roof and ceiling) always indicates its view:
@@ -667,9 +660,9 @@ Notes
 -   To reinforce this corner, we create a C24 brace with 0.020 step joint using the option (2-1-7) \"Beam 2 Points\". The shear block at the lower end of the strut is 0.200, the upper opening dimension is 1.000 from the inside of the corner post. First position the lower end with the intersection of the inside of the post and the grid line, then the upper connection with reference point:
 
 ![](media-workplanes/media/image110.png)
->
+
 Notes
->
+
 ![](media-workplanes/media/image111.png)
 
 +-----------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
@@ -678,7 +671,7 @@ Notes
 +-----------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
 
 Notes
->
+
 We change to the work plane Base and create (with 4-1-1 and Middle Mouse, center between two points) a 3D auxiliary geometry point centered on top of Beam
 
 -   Then we activate the brace and (2-7-3) copy around the Z axis by 180°, around the 3D point on the middle of the beam:
@@ -698,7 +691,7 @@ Notes
 ![](media-workplanes/media/image115.jpeg)
 
 Notes
->
+
 We change into the work plane gable wall and determine here in 4 steps the position of the rafters of our carport first by drawing.
 
 -   Step 1: we start (with 02-4-1) the 2D drawing function for a \"circle - center and radius\". With this circle with r = 0.215 we select the outer, upper plate corner an area for the right-angled timber of the rafters of our carport.
@@ -715,8 +708,6 @@ We create the left gable rafter with the 2D line with input \"beam 2 points\" an
 
 +-------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
 | ![](media-workplanes/media/image117.png) | ![](media-workplanes/media/image118.png) |
-+=======================================================================================================+=======================================================================================================+
-+-------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
 
 Notes
 
@@ -731,7 +722,7 @@ Notes
 -   We create an arbitrary work plane \"roof area\" by point selection: left eaves corner, right eaves corner, a ridge point.
 
 Notes
->
+
 It is created with the grid settings of the work plane \"Back eaves wall\", which were the last selected settings.
 
 -   Now we enter C24 rafters 0.080 x 0.240 on the plate and use the distribute function in the \"Parallel Y\" input dialog box. We use a gable rafter to measure the length.
@@ -760,9 +751,7 @@ Notes
 
 -   Please note: a 90° rotation of the cross section is required to install the brace with the wide side vertical.
 
-```{=html}
-<!-- -->
-```
+
 -   The depth position is 0.020 so that they sit centered under the plates.
 
 -   For the right Brace on the center post, the tilt angle is 45°, Positioning point: corner 1.
@@ -771,13 +760,11 @@ Notes
 
 -   Connection at both ends are hidden Step joints: with 0.020 depth
 
-```{=html}
-<!-- -->
-```
+
 -   As reference point for the lower end we choose the corner between post and plate, then 1,000 distance in -Y. With the setting "Connect: All" the brace gets automatically connected with the plate, too.
 
 ![](media-workplanes/media/image122.png)
->
+
 Notes
 
 -   Then we copy (with 2-7-1) the brace to the left. The origin point is the upper left corner point of the corner post, the destination point is the upper left corner point of the middle post.
@@ -793,9 +780,9 @@ Notes
 ![](media-workplanes/media/image124.png)
 
 Notes
->
+
 We now create the beam in full line length using \"beam 2 points\" (option for Connect: none!) and connect it on both ends (with 3-9-5) with traditional joinery, notched lap:
->
+
 ![](media-workplanes/media/image125.png)
 
 -   Now we move the working plane (with 9-2-05) back by 0.020. To do this, we select its zero point as reference point and enter a shift of -0.020 in the Z direction. This moves the auxiliary point at the Andreas brace in the direction of the component center.
@@ -803,7 +790,7 @@ We now create the beam in full line length using \"beam 2 points\" (option for C
 -   Then we change to the work plane \"Base\" and copy (with 2-7-3) the brace around the Z-axis with the previously moved point as pivot by 180°.
 
 ![](media-workplanes/media/image126.jpeg)Finally, we lap joint both beams (with 3-8-1, depth of notched beam 1: bisect).
->
+
 Notes
 
 -   To create the second half of the carport we switch to the work plane \"Back eaves wall\", activate all parts and copy \[with Ctrl+C\] to the clipboard.
@@ -813,13 +800,13 @@ Notes
 -   We rotate this work plane into the view and select \[Ctrl+V\] to insert the second half of the carport.
 
 The \"Read element\" window opens. All points and lines visible here are a perpendicular projection into the work plane \"Back eaves wall\", which was current during the copy process. In order to insert all parts in the new work plane \"Front eaves wall\", we should select a point that is easy to find in this work plane.
->
+
 For example, the outer base point of the right corner post can be used, which can be inserted directly at the outer lower grid point in the work plane \"Front eaves wall\":
->
+
 ![](media-workplanes/media/image127.png)
->
+
 Notes
->
+
 ![](media-workplanes/media/image128.png)
 
 -   After the insertion we check the connections of the components. On each gable side a wall brace and a beam of the Andreas brace at one end ran into the void, although they had been produced with a connection process. We create these connections again (with 3-1-7) form new connection.
@@ -838,21 +825,18 @@ Notes
 
 -   We then distribute 4 joists of 0.120 x 0.200 with the same connections in each of the two lateral fields.
 
-+-----------------------------------------+--------------------------------------------------------------------------------------------------------+
 | Our finished carport looks like this: | ![](media-workplanes/media/image130.jpeg) |
-+=========================================+========================================================================================================+
-+-----------------------------------------+--------------------------------------------------------------------------------------------------------+
 
 Notes
 
 # Work planes - Example of an application on a pavilion
 
 The pavilion is used to apply and practice the explanations of work planes from Training Part 1, Introduction.
->
+
 When entering components in the work plane, the depth positioning is always flush with the front unless otherwise specified.
->
+
 The unit for all length specifications is meter.
->
+
 We create a new building P01
 
 -   We create a horizontal work plane in parallel X. The zero point of this plane is global zero, the X directions are identical.
@@ -868,7 +852,7 @@ We create a new building P01
 -   We copy the base line and the left triangle line around the tip of the triangle 4x with 72° in the arc and get the pentagon with connecting lines from the corners to the center point.
 
 ![](media-workplanes/media/image131.png)
->
+
 Notes
 
 -   We create a vertical working plane \"Front\" parallel X, zero point and grid as before
@@ -892,7 +876,7 @@ Note: with this positioning we can directly measure the perpendicular Obholz.
 -   The help rafter can be deleted.
 
 Notes
->
+
 ![](media-workplanes/media/image134.png)
 
 -   We create 2 tilted slanting rafters at right angles to each other with the dimensions 0.120x0.200x2.000 in the work plane \"Roof\" using \"Beam Angle\". The positioning is carried out using the ends of the plates on the front edge. On the left corner the orientation is 45° with the positioning point 2, on the right 135° and the point 1.
@@ -918,7 +902,7 @@ Note: The Plate front and top planes of the rafters can be selected for creating
 -   We create two intersection points of the rafter outer edges with the work plane with assisting geometry (4-1-1), \"Single point\".
 
 Notes
->
+
 A work plane should now run through the cutting line of the working planes or through the front edge of the Trimmer, which tilts 30° outwards from the \"Front\" work plane. Its Z-axis should be directed downwards so that component inputs (front flush) are above this plane. This is how the slanting dormer Verge rafters are to be created.
 
 -   We change to the Global System.
@@ -931,12 +915,8 @@ A work plane should now run through the cutting line of the working planes or th
 
 Note: When selecting a surface for the work plane, selecting the bottom side of the rafter this will give you desired alignment of Z of this plane.
 
-+---------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image139.jpeg) | Note:                                                                                                                                                       |
-|                                                                                                         |                                                                                                                                                             |
-|                                                                                                         | the work plane now has the correct inclination. However, it does not yet run exactly through the desired intersection line of the other two working planes. |
-+=========================================================================================================+===============================================================================================================================================================+
-+---------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image139.jpeg) | Note:                                                                                                                                                       |
+                                                                                                        | the work plane now has the correct inclination. However, it does not yet run exactly through the desired intersection line of the other two working planes. |
 
 Notes
 
@@ -949,15 +929,12 @@ Notes
 -   In this work plane we create the \"slanting verge rafters\" with the option \"Beam 2 points\" 0,120 x 0,200x 2,500 and position them with the side 2-3 or 1-4.
 
 Note: The rafter edges, which are formed by the outside and underside of the rafters, run from the marked points next to the Trimmer to the upper end, of the lower ridge plate edge.
->
+
 ![](media-workplanes/media/image140.png)
->
+
 Positioning from the point on the cutting line to the cut edge of the dormer ridge plate:
 
-+---------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image141.jpeg) | ![](media-workplanes/media/image142.jpeg) |
-+=========================================================================================================+==========================================================================================+
-+---------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image141.jpeg) | ![](media-workplanes/media/image142.jpeg) |
 
 -   Afterwards we lap joint the dormer verge rafters.
 
@@ -976,7 +953,7 @@ Note: Set the \"Edge to create birds' mouth\": to Choice.
 -   In the work plane \"Roof\" we create a vertical 2D line (length 3,000) through the middle of our previous construction, origin in the middle of the trimmer.
 
 ![](media-workplanes/media/image144.png)
->
+
 Notes
 
 -   From the center of the pentagon we create a 3D assisting geometry line (with 4-3-1) vertically up to intersection with the center line in the work plane \"Roof\" which will define the ridge point of our pavilion.
@@ -992,13 +969,13 @@ Note: when selecting a line to create a vertical working plane, the program firs
 -   We switch to the work plane \"left\". Here we insert the lower post end on the right intersection of the pentagon (Ctrl+V).
 
 Notes
->
+
 ![](media-workplanes/media/image146.png)
 
 -   We cut the two rafters on the left horizontally at the bottom of the wall plate. We connect eaves point and ridge point with a 3D assisting geometry line.
 
 ![](media-workplanes/media/image147.png)
->
+
 Notes
 
 -   ![](media-workplanes/media/image148.jpeg)Switch to the global system, then we position the 0.160 x 0.280 Hip rafter with \"Constant section, General\", Point to Point, with Additional length at origin ZAand at end ZE: of 0.200 \"Position point: Corner 3\" Y-offset 0,080.
@@ -1025,10 +1002,7 @@ Notes
 
 -   In the \"left\" work plane, we activate all components that have already been copied to the left, copy them to the clipboard, and paste them in turn into the work planes of the other three pentagonal sides.
 
-+----------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image149.jpeg) | ![](media-workplanes/media/image150.jpeg) |
-+==============================================================================================+=========================================================================================================+
-+----------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image149.jpeg) | ![](media-workplanes/media/image150.jpeg) |
 
 -   We end lap joint all the plates and add the missing Dovetail tenons to the main roof rafters to the hip rafters.
 
@@ -1042,23 +1016,14 @@ Notes
 
 -   With a horizontal cut on the post at the lower edges of the dormer ridge plates we get a King post.
 
-+--------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image151.jpeg) | ![](media-workplanes/media/image152.jpeg) |
-+========================================================================================================+=========================================================================================================+
-+--------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image151.jpeg) | ![](media-workplanes/media/image152.jpeg) |
 
 This is our finished pavilion:
 
-+----------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image153.jpeg) | ![](media-workplanes/media/image154.jpeg) |
-+==============================================================================================+=========================================================================================================+
-+----------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image153.jpeg) | ![](media-workplanes/media/image154.jpeg) |
 
 Notes
 
-+-------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image155.jpeg) | ![](media-workplanes/media/image156.jpeg) |
-+=======================================================================================================+========================================================================================================+
-+-------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image155.jpeg) | ![](media-workplanes/media/image156.jpeg) |
 
 Notes
