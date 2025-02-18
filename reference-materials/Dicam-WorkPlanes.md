@@ -22,38 +22,38 @@ The training document consists of four parts.
 
 ## What is a work plane? Definition of the first work plane
 
-*We open the training project,* [D-CAM]{.underline} *work planes*
+*We open the training project,* [D-CAM]*work planes*
 
 *In the training project, we create a building position AE0 with the template without default values.*
 
 In D-CAM we choose "Display settings work planes Favorite 1"und "Grid settings Favorite 1:"
 
 ![](media-workplanes/media/image10.png) 
-![](media-workplanes/media/image11.png) |
-
+![](media-workplanes/media/image11.png) 
 The first working plane can be seen at the coordinate origin.
 
 ![](media-workplanes/media/image12.jpeg)
 There is an icon for entering a rectangular cross-section as a member or profile member in space:
 
 **Constant cross section** General.
-
 There are four icons for entering parts in the plane.
-
 ![](media-workplanes/media/image13.png)
 
 **Constant cross section** as beam along X, beam along Y, beam angle and beam 2 points.
-
 We create two members in the first work plane with the option \" component 2 points\":
-
 ![](media-workplanes/media/image14.jpeg)
 ![](media-workplanes/media/image15.png)
 
-![](media-workplanes/media/image16.png)![](media-workplanes/media/image17.png)![](media-workplanes/media/image18.png)![](media-workplanes/media/image19.png)We create another working plane, this with vertical alignment, by clicking on a component edge:
+![](media-workplanes/media/image16.png)
+![](media-workplanes/media/image17.png)
+![](media-workplanes/media/image18.png)
+![](media-workplanes/media/image19.png)
+
+We create another working plane, this with vertical alignment, by clicking on a component edge:
 
 With the previous setting of the component input and cross section rotated 90°, we create a frame:
-
- ![](media-workplanes/media/image20.png) | This type of component input is similar to that, in wall and ceiling construction. |
+![](media-workplanes/media/image20.png) 
+This type of component input is similar to that, in wall and ceiling construction. 
 
 The possibility of 3D input is available at any time - without special changes.
 
@@ -61,36 +61,28 @@ The possibility of 3D input is available at any time - without special changes.
 
 We create a diagonal component as a \"general constant cross section\" in space:
 
-![A drawing of a rectangular object AI-generated content may be incorrect.](media-workplanes/media/image22.png)
+![](media-workplanes/media/image22.png)
 
-![A drawing of a rectangular object AI-generated content may be incorrect.](media-workplanes/media/image23.png)
+![](media-workplanes/media/image23.png)
 
 If a **constant cross-section** is generated as a \"member along X\", \"member along Y\", \"member with angle\" or \"member over 2 points\", then inputs always refer to the current working plane.
 
 All points and lines selected in the space are projected onto the working plane:
 
- ![](media-workplanes/media/image24.png) | ![](media-workplanes/media/image25.png) |
-
+![](media-workplanes/media/image24.png)  
+![](media-workplanes/media/image25.png) 
 ![](media-workplanes/media/image26.png)
-
 ![](media-workplanes/media/image27.png)
 
-The input of a \"general constant cross-section\" from \"point to point\" or with the \"Align\" option does not take working planes into account. The current coordinate system has no meaning in this case. However, if, for example, an axis-parallel alignment (parallel X, parallel Y, and parallel
-
-Z\) is selected for the \"general constant cross-section\", the input is oriented to the coordinate system of the current working plane.
+The input of a \"general constant cross-section\" from \"point to point\" or with the \"Align\" option does not take working planes into account. The current coordinate system has no meaning in this case. However, if, for example, an axis-parallel alignment (parallel X, parallel Y, and parallel Z\) is selected for the \"general constant cross-section\", the input is oriented to the coordinate system of the current working plane.
 
 We create a \"general constant cross section\" with the alignment parallel Z at the origin of the vertical working plane.
 
 ![](media-workplanes/media/image28.jpeg)
-
 Measurements always refer to the coordinate system of the current working plane:
-
 ![](media-workplanes/media/image29.png)
-
 Drawing in the space and in the work, plane is also possible at any time in 2D and 3D:
-
 ![](media-workplanes/media/image30.png)
-
 To enter the 2D drawing elements in the work planes, they are automatically rotated into their view.
 
 Working planes allow input in the comfortable 2D mode.
@@ -106,7 +98,6 @@ For the display settings, we select \"Favorite 1: Beams from roof, wall, ceiling
 ## Typical cases of work planes
 
 There are four functions for defining work planes. These should lead as quickly as possible to the work planes normally required.
-
 ![](media-workplanes/media/image31.png)
 
 ## The horizontal work plane
@@ -162,9 +153,9 @@ With four surfaces of a rafter, we will create a work plane for each surface.
 All four arbitrary work planes are now automatically generated in such a way, that
 
     the direction of view on the component shows (i.e. the component is behind the surface),
-
+    
     X is horizontal,
-
+    
     the selected component surface lies completely in the first quadrant:
 
 Notes
@@ -367,7 +358,7 @@ We select the work plane \"Inclined on rafters\".
 
 We distribute between the rafters, trimmers (8x20), starting at the eaves point. The upper end of the distribution is the lower perpendicular section point angled on the top of the rafters:
 
- 
+
 ![](media-workplanes/media/image70.jpeg) | ![](media-workplanes/media/image71.jpeg) | ![](media-workplanes/media/image72.jpeg) |
 
 We select the work plane \"Vertical plate\".
