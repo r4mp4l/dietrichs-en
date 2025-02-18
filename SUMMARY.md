@@ -47,4 +47,5 @@
   * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
   * [WorkPlanes](reference-materials/DICAM-WorkPlanes.md)
   * [WorkPlanes- Simple](reference-materials/SimpleWorkplanes.md)
+  * [Drawing Basic Elements](reference-materials/DrawingBasicElements.md)
   * [Tutorial](reference-materials/tutorial/README.md)
