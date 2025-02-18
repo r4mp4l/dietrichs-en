@@ -8,17 +8,11 @@ The training document consists of four parts.
 
 **The first part** explains the attributes and functions of work planes. This results in advantageous working methods, which are shown in individual, non-contiguous examples.
 
-+----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image3.jpeg) | ![](media-workplanes/media/image4.png) | ![](media-workplanes/media/image6.png) |
-+========================================================================================+=====================================================================================================+=====================================================================================================+
-+----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image3.jpeg) | ![](media-workplanes/media/image4.png) | ![](media-workplanes/media/image6.png) |
 
 **In parts two to four** a carpenter\'s sawhorse, a carport and a pavilion are constructed on this basis. The different working methods of the input of components and drawing elements in the work plane and in space are particularly considered.
 
-+-------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image7.jpeg) | ![](media-workplanes/media/image8.jpeg) | ![](media-workplanes/media/image9.jpeg) |
-+=======================================================================================================+======================================================================================================+=======================================================================================================+
-+-------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image7.jpeg) | ![](media-workplanes/media/image8.jpeg) | ![](media-workplanes/media/image9.jpeg) |
 
 # Work Planes - An Introduction
 
@@ -32,8 +26,7 @@ The training document consists of four parts.
 
 -   In D-CAM we choose "Display settings work planes Favorite 1"und "Grid settings Favorite 1:"
 
-+-------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image10.png) | ![](media-workplanes/media/image11.png) |
+ ![](media-workplanes/media/image10.png) | ![](media-workplanes/media/image11.png) |
 
 The first working plane can be seen at the coordinate origin.
 
@@ -55,10 +48,7 @@ There are four icons for entering parts in the plane.
 
 -   With the previous setting of the component input and cross section rotated 90°, we create a frame:
 
-+------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image20.png) | This type of component input is similar to that, in wall and ceiling construction. |
-+======================================================================================================+======================================================================================+
-+------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image20.png) | This type of component input is similar to that, in wall and ceiling construction. |
 
 The possibility of 3D input is available at any time - without special changes.
 
@@ -74,10 +64,7 @@ If a **constant cross-section** is generated as a \"member along X\", \"member a
 
 All points and lines selected in the space are projected onto the working plane:
 
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image24.png) | ![](media-workplanes/media/image25.png) |
-+=======================================================================================================+=========================================================================================+
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image24.png) | ![](media-workplanes/media/image25.png) |
 
 ![](media-workplanes/media/image26.png)
 
@@ -123,10 +110,7 @@ There are four functions for defining work planes. These should lead as quickly 
 
 With 2x right mouse clicks we get a new work plane. Their X-alignment is automatically global X, the position of the origin is automatically only vertically offset.
 
-+-----------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image32.png) | ![](media-workplanes/media/image33.png) |
-+=====================================================================================================+======================================================================================================+
-+-----------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+
+![](media-workplanes/media/image32.png) | ![](media-workplanes/media/image33.png) |
 
 A horizontal work plane rotated in the ground is achieved with three clicks:
 
@@ -160,10 +144,7 @@ Notes
 
 -   We select a rafter lower edge for the next work plane:
 
-+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image4.png) | ![](media-workplanes/media/image37.jpeg) |
-+======================================================================================================+=======================================================================================================+
-+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
+ ![](media-workplanes/media/image4.png) | ![](media-workplanes/media/image37.jpeg) |
 
 ## The arbitrary work plane
 
@@ -183,11 +164,8 @@ The arbitrary work plane is the most flexible form of the work planes. It is pos
 
 Notes
 
-+------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| ![](media-workplanes/media/image38.png) | ![](media-workplanes/media/image39.jpeg) |
-+======================================================================================================+==========================================================================================+
+ ![](media-workplanes/media/image38.png) | ![](media-workplanes/media/image39.jpeg) |
 | ![](media-workplanes/media/image40.jpeg)             | ![](media-workplanes/media/image41.jpeg)     |
-+------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 
 ## Arbitrary work plane: selection of points and lines
 
