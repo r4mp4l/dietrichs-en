@@ -13,7 +13,7 @@
   * [Drawing Basic Elements](getting-started/DrawingBasicElements.md)
   * [Drawing 3D Elements](getting-started/Drawing3DElements.md)
   * [Adding Workplanes for 3D Models](getting-started/SimpleWorkPlanes.md)
-  * [Adding Processes to Objects](SimpleProcessing.md)
+  * [Adding Processes to Objects](gettings-started/SimpleProcessing.md)
 
 * [Core Concepts](core-concepts/README.md)
   * [Operations Modes](core-concepts/operations-modes/README.md)
