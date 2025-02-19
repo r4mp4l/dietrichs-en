@@ -51,5 +51,6 @@
   * [Dach Help](reference-materials/DachHelp.md)
   * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
   * [WorkPlanes](reference-materials/DICAM-WorkPlanes.md)
-
   * [Tutorial](reference-materials/tutorial/README.md)
+  * [BTL Basics](reference-materials/BTLFileFormat.md)
+  
