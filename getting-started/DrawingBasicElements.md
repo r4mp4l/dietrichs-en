@@ -1,8 +1,4 @@
-**Drawing Elements & Tools Tutorial**
-
-[!] = Needs clarification/definition
-[+] = Advanced feature, see documentation for details
-[#] = Critical workflow concept
+**Drawing 2D Elements & Tools Tutorial**
 
 **Understanding Drawing Elements & Tools**
 Basic drawing elements form the foundation of any architectural drawing. Whether you're creating a simple floor plan or detailed construction documents, mastering these tools is essential. Each tool serves a specific purpose: straight lines create walls and boundaries, boxes make posts and beams, while arcs and braces add structural detail.
@@ -53,7 +49,7 @@ Basic drawing elements form the foundation of any architectural drawing. Whether
 3. Click target point
 4. Continue with command
 
-**6. Edit and Adjust Elements**
+**6. Edit and Adjust Elements - Object Mode**
 1. Select element
 2. Right click for options:
    - Move
@@ -65,8 +61,14 @@ Basic drawing elements form the foundation of any architectural drawing. Whether
 4. Complete modification
 5. Right click to finish
 
+**6. Edit and Adjust Elements - Function Mode**
+1. Enter Function - such as copy, rotate etc.
+2. Select Objects
+3. Complete modification
+4. Right click to finish
+
 **Essential Workflow Concepts**
-1. Use layers to organize different elements
+1. Use either "Function First" or "Object First" mode
 2. The Assistant Menu (Middle Mouse Button) provides precise snap points
 3. Save commonly used elements to library
 4. Use grid snap and object snap for accurate placement
