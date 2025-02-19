@@ -10,6 +10,9 @@
   * [Interface Overview](getting-started/interface-overview.md)
   * [Project Administration](getting-started/project-administration.md)
   * [Basic Settings](getting-started/basic-settings.md)
+  * [Drawing Basic Elements](getting-started/DrawingBasicElements.md)
+  * [WorkPlanes- Simple](getting-started/SimpleWorkplanes.md)
+
 * [Core Concepts](core-concepts/README.md)
   * [Operations Modes](core-concepts/operations-modes/README.md)
     * [Overview](core-concepts/operations-modes/overview.md)
@@ -46,6 +49,5 @@
   * [Dach Help](reference-materials/DachHelp.md)
   * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
   * [WorkPlanes](reference-materials/DICAM-WorkPlanes.md)
-  * [WorkPlanes- Simple](reference-materials/SimpleWorkplanes.md)
-  * [Drawing Basic Elements](reference-materials/DrawingBasicElements.md)
+
   * [Tutorial](reference-materials/tutorial/README.md)
