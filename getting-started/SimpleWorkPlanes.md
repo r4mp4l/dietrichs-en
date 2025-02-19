@@ -2,7 +2,8 @@
 
 ## What Are Workplanes?
 
-Workplanes are like invisible sheets that help you draw and build in 3D space. Think of them as virtual drawing boards that you can place anywhere in your project. They are essential in D-CAM because you cannot add materials or components to your project without them - they provide the necessary reference for positioning and orienting building elements.
+Workplanes are like invisible sheets that help you draw and build in 3D space. Think of them as virtual drawing boards that you can place anywhere in your project. They are essential in D-CAM because you can add materials or components to your project without them - but without them you don't have  necessary reference for positioning and orienting building elements. See example below:
+![](media-workplanes/media/image49.png)
 
 ### Key Properties of Workplanes
 
@@ -14,18 +15,19 @@ Workplanes are like invisible sheets that help you draw and build in 3D space. T
 2. **Size and Boundaries**
    - Workplanes are technically infinite in size
    - The visible grid area can be adjusted as needed
-   - You can work beyond the visible grid area
-   ![](media-workplanes/media/image55.png)
+   - You can work beyond the visible grid area   
+![](../reference-materials/media-workplanes/media/image55.png)
 
 3. **Resizing Options**
    - Use the Clipbox to control the visible area
    - Adjust grid size and spacing for different tasks
    - Save different size settings as favorites for quick access
-   ![](media-workplanes/media/image64.jpeg)
+   
+![](../reference-materials/media-workplanes/media/image64.jpeg)
 
-![](media-workplanes/media/image3.jpeg)  
-![](media-workplanes/media/image4.png) 
-![](media-workplanes/media/image6.png) 
+![](../reference-materials/media-workplanes/media/image3.jpeg)  
+![](../reference-materials/media-workplanes/media/image4.png) 
+![](../reference-materials/media-workplanes/media/image6.png) 
 
 ## Basic Concepts
 
@@ -33,18 +35,18 @@ Workplanes are like invisible sheets that help you draw and build in 3D space. T
 
 1. **Horizontal Workplanes**
    - Like a flat table surface
-   - Great for floor plans and top-down views
-   ![](media-workplanes/media/image32.png)
+   - Great for floor plans and top-down views   
+![](../reference-materials/media-workplanes/media/image32.png)
 
 2. **Vertical Workplanes**
    - Like a wall surface
    - Perfect for working on walls and elevations
-   ![](media-workplanes/media/image36.png)
+![](../reference-materials/media-workplanes/media/image36.png)
 
 3. **Arbitrary Workplanes**
    - Can be placed at any angle
    - Useful for roof slopes and complex angles
-   ![](media-workplanes/media/image38.png)
+![](../reference-materials/media-workplanes/media/image38.png)
 
 ### Working with the Grid
 
@@ -68,19 +70,19 @@ Workplanes are like invisible sheets that help you draw and build in 3D space. T
 1. Start with a horizontal workplane for the foundation
 2. Add vertical workplanes for walls
 3. Use angled workplanes for roofs
-![](media-workplanes/media/image104.jpeg)
+![](../reference-materials/media-workplanes/media/image104.jpeg)
 
 ### Common Tasks
 
 1. **Adding Beams**
    - Use "beam along X" for horizontal beams
    - Use "beam along Y" for vertical posts
-   ![](media-workplanes/media/image107.png)
+![](../reference-materials/media-workplanes/media/image107.png)
 
 2. **Creating Joints**
    - Position workplanes at connection points
    - Use appropriate joint types for each connection
-   ![](media-workplanes/media/image115.jpeg)
+![](../reference-materials/media-workplanes/media/image115.jpeg)
 
 ## Beginner Tutorials
 
@@ -91,63 +93,63 @@ Workplanes are like invisible sheets that help you draw and build in 3D space. T
    - Create a new horizontal workplane at ground level
    - Set grid size to 0.100 for precision
    - Make workplane area 6.000 x 6.000 meters
-   ![](media-workplanes/media/image105.png)
+   ![](../reference-materials/media-workplanes/media/image105.png)
 
 2. **Add Corner Posts**
    - Create vertical workplane at front edge
    - Use "beam along Y" to add 0.160 x 0.160 posts
    - Set positioning point to "Choice" for easy corner placement
    - Create posts at both ends of front edge
-   ![](media-workplanes/media/image107.png)
+   ![](../reference-materials/media-workplanes/media/image107.png)
 
 3. **Add Top Plate**
    - Stay in vertical workplane
    - Use "beam along X" for horizontal plate
    - Set beam size to 0.160 x 0.240
    - Rotate cross-section 90° if needed
-   ![](media-workplanes/media/image109.jpeg)
+   ![](../reference-materials/media-workplanes/media/image109.jpeg)
 
 4. **Add Diagonal Bracing**
    - Use "Beam 2 Points" for diagonal brace
    - Set step joint depth to 0.020
    - Position lower end 0.200 from post bottom
    - Set upper opening to 1.000 from post inside
-   ![](media-workplanes/media/image110.png)
+   ![](../reference-materials/media-workplanes/media/image110.png)
 
 ### Tutorial 2: Building a Basic Roof
 1. **Create Top Level Workplane**
    - Make horizontal workplane at wall plate height
    - Set grid to match building dimensions
    - Ensure proper orientation for roof layout
-   ![](media-workplanes/media/image116.png)
+   ![](../reference-materials/media-workplanes/media/image116.png)
 
 2. **Set Up Roof Angle**
    - Create vertical workplane at gable end
    - Draw circle (r=0.215) at plate corner for rafter positioning
    - Draw lines for roof slope from ridge point
    - Define eaves point for rafter ends
-   ![](media-workplanes/media/image117.png)
+   ![](../reference-materials/media-workplanes/media/image117.png)
 
 3. **Add First Rafters**
    - Use "beam 2 points" for gable rafter
    - Set correct cross-section rotation
    - Create birds mouth joint where rafter meets plate
    - Copy rafter to opposite end
-   ![](media-workplanes/media/image119.png)
+   ![](../reference-materials/media-workplanes/media/image119.png)
 
 4. **Complete Rafter Layout**
    - Create arbitrary workplane on roof slope
    - Distribute intermediate rafters
    - Set spacing using "Clear distance" option
    - Add birds mouth cuts to all rafters
-   ![](media-workplanes/media/image121.png)
+   ![](../reference-materials/media-workplanes/media/image121.png)
 
 ### Tutorial 3: Creating Wall Connections
 1. **Prepare Wall Workplanes**
    - Create vertical workplanes for each wall
    - Set grid size appropriate for stud spacing
    - Ensure proper workplane orientation
-   ![](media-workplanes/media/image122.png)
+   ![](../reference-materials/media-workplanes/media/image122.png)
 
 2. **Add Wall Components**
    - Position bottom plate using "beam along X"
@@ -159,14 +161,14 @@ Workplanes are like invisible sheets that help you draw and build in 3D space. T
    - Use end lap joints for plate corners
    - Add corner studs with proper overlap
    - Create proper nailing surfaces
-   ![](media-workplanes/media/image114.jpeg)
+   ![](../reference-materials/media-workplanes/media/image114.jpeg)
 
 4. **Add Wall Bracing**
    - Create diagonal braces at 45 degrees
    - Use step joints at brace ends
    - Ensure proper depth positioning
    - Mirror bracing for opposite direction
-   ![](media-workplanes/media/image123.png)
+   ![](../reference-materials/media-workplanes/media/image123.png)
 
 Tips for All Tutorials:
 - Always check active workplane before adding components
