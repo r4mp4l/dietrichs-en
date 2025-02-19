@@ -11,6 +11,8 @@
   * [Project Administration](getting-started/project-administration.md)
   * [Basic Settings](getting-started/basic-settings.md)
   * [Drawing Basic Elements](getting-started/DrawingBasicElements.md)
+  * [Drawing 3D Elements](getting-started/Drawing3DElements.md)
+
   * [Work Planes Simple](getting-started/SimpleWorkPlanes.md)
 
 * [Core Concepts](core-concepts/README.md)
