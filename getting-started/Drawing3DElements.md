@@ -10,9 +10,9 @@ In this we shall explain how to draw a beam. Other objects can be drawn using th
 **1. Drawing a Single Beam**
 1. Go to the D-CAM/Freedesign Module. (Option 1-2-9)
 2. Click on Edit>> Constant Section>> General or  enter option 2-1-1
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 3. A pop-up window will open as shown below:
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 4. Enter the following information
 - Item Number. 
 - Beam Type/ Designation
@@ -21,16 +21,16 @@ In this we shall explain how to draw a beam. Other objects can be drawn using th
 - Positioning information: depth position, positioning point.
 5. There are some other setting but they are not important at this point
 
-** 2. Selecting a Single Beam** 
+**2. Selecting a Single Beam** 
 1. Go to Activate>> Single or Option 8-5
 2. Click on one of the edges of the target. (Clicking on the face will not work.) 
 3. Right click again to select the target.
 
-** 3. Editing a Single Beam - Object Mode**
+**3. Editing a Single Beam - Object Mode**
 1. Select the beam as in the step above. 
 2. Go to Edit and select the function required.
 
-**6. Edit and Adjust Elements - Function Mode**
+**4. Edit and Adjust Elements - Function Mode**
 1. Enter Function - such as copy, rotate etc.
 2. Select Objects
 3. Complete modification
