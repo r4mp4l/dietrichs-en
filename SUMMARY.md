@@ -13,8 +13,7 @@
   * [Drawing Basic Elements](getting-started/DrawingBasicElements.md)
   * [Drawing 3D Elements](getting-started/Drawing3DElements.md)
   * [Adding Workplanes for 3D Models](getting-started/SimpleWorkPlanes.md)
-  * [Adding Processes to Objects](gettings-started/SimpleProcessing.md)
-
+  * [Adding Processes to Objects](getting-started/adding-processes-to-objects.md)
 * [Core Concepts](core-concepts/README.md)
   * [Operations Modes](core-concepts/operations-modes/README.md)
     * [Overview](core-concepts/operations-modes/overview.md)
@@ -50,9 +49,8 @@
 * [Reference Materials](reference-materials/README.md)
   * [Dach Help](reference-materials/DachHelp.md)
   * [DachTragWerkHelp](reference-materials/DachtragwerkHelp.md)
-  * [GrundansichtenHilfe ](reference-materials/GrundansichtenHilfe.md)
+  * [GrundansichtenHilfe](reference-materials/GrundansichtenHilfe.md)
   * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
-  * [WorkPlanes](reference-materials/DICAM-WorkPlanes.md)
+  * [WorkPlanes](reference-materials/workplanes.md)
   * [Tutorial](reference-materials/tutorial/README.md)
   * [BTL Basics](reference-materials/BTLFileFormat.md)
-  
