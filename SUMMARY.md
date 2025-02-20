@@ -1,4 +1,4 @@
-# Table of contents
+<!-- # Table of contents
 
 * [Dietrich's Intelligent Documentation](README.md)
 * [Introduction](<README (1).md>)
@@ -53,7 +53,7 @@
   * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
   * [WorkPlanes](reference-materials/workplanes.md)
   * [Tutorial](reference-materials/tutorial/README.md)
-  * [BTL Basics](reference-materials/BTLFileFormat.md)
+  * [BTL Basics](reference-materials/BTLFileFormat.md) -->
 
 
 # Table of contents
