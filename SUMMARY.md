@@ -49,6 +49,8 @@
 * [Drawings](drawings-1.md)
 * [Reference Materials](reference-materials/README.md)
   * [Dach Help](reference-materials/DachHelp.md)
+  * [DachTragWerkHelp](reference-materialsDachtragwerkHelp.md)
+  * [GrundansichtenHilfe ](reference-materials/GrundansichtenHilfe.md)
   * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
   * [WorkPlanes](reference-materials/DICAM-WorkPlanes.md)
   * [Tutorial](reference-materials/tutorial/README.md)
