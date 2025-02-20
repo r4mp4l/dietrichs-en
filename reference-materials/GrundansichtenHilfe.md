@@ -1,9 +1,3 @@
--   [[1]{.toc-section-number} 5.4.X Grundansichten](#x-grundansichten){#toc-x-grundansichten}
-    -   [[1.1]{.toc-section-number} 5.4.X.1 Einleitung](#x.1-einleitung){#toc-x.1-einleitung}
-    -   [[1.2]{.toc-section-number} 5.4.X.2 Grundlegende Informationen](#x.2-grundlegende-informationen){#toc-x.2-grundlegende-informationen}
-    -   [[1.3]{.toc-section-number} 5.4.X.3 Erweiterung der Darstellungsschaltung](#x.3-erweiterung-der-darstellungsschaltung){#toc-x.3-erweiterung-der-darstellungsschaltung}
-    -   [[1.4]{.toc-section-number} 5.4.X.4 Speichern einer Grundansicht](#x.4-speichern-einer-grundansicht){#toc-x.4-speichern-einer-grundansicht}
--   [[2]{.toc-section-number} X.X.X.X Grundansichtsplan](#x.x.x.x-grundansichtsplan){#toc-x.x.x.x-grundansichtsplan}
 
 # 5.4.X Grundansichten
 

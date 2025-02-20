@@ -1,23 +1,3 @@
--   [[1]{.toc-section-number} \
-    Bauwerk, Modellbereiche](#bauwerk-modellbereiche){#toc-bauwerk-modellbereiche}
-    -   [[1.1]{.toc-section-number} Bauwerke](#bauwerke){#toc-bauwerke}
-    -   [[1.2]{.toc-section-number} Modellbereiche](#modellbereiche){#toc-modellbereiche}
-    -   [[1.3]{.toc-section-number} Dateioperationen](#dateioperationen){#toc-dateioperationen}
--   [[2]{.toc-section-number} Messfunktionen](#messfunktionen){#toc-messfunktionen}
--   [[3]{.toc-section-number} Arbeitsumgebung](#arbeitsumgebung){#toc-arbeitsumgebung}
--   [[4]{.toc-section-number} Dachtragwerk](#dachtragwerk){#toc-dachtragwerk}
-    -   [[4.1]{.toc-section-number} Datei - Extras - Schwerpunkte](#datei---extras---schwerpunkte){#toc-datei---extras---schwerpunkte}
-    -   [[4.2]{.toc-section-number} Datei - Einstellungen](#datei---einstellungen){#toc-datei---einstellungen}
-    -   [[4.3]{.toc-section-number} Datei - Import - DXF-Linien](#datei---import---dxf-linien){#toc-datei---import---dxf-linien}
-    -   [[4.4]{.toc-section-number} Dachfläche](#dachfläche){#toc-dachfläche}
-    -   [[4.5]{.toc-section-number} Bretter / Schalung / Beplankung](#bretter-schalung-beplankung){#toc-bretter-schalung-beplankung}
-    -   [[4.6]{.toc-section-number} Bauteile - Dachassistent](#bauteile---dachassistent){#toc-bauteile---dachassistent}
-    -   [[4.7]{.toc-section-number} Bauteile](#bauteile){#toc-bauteile}
-    -   [[4.8]{.toc-section-number} Bearbeitungen](#bearbeitungen){#toc-bearbeitungen}
-    -   [[4.9]{.toc-section-number} Systeme](#systeme){#toc-systeme}
-    -   [[4.10]{.toc-section-number} Hilfsgeometrie](#hilfsgeometrie){#toc-hilfsgeometrie}
-    -   [[4.11]{.toc-section-number} Ansicht, Schnitte](#ansicht-schnitte){#toc-ansicht-schnitte}
-    -   [[4.12]{.toc-section-number} Ergebnisse](#ergebnisse){#toc-ergebnisse}
 
 **8. Bauwerk: Dachtragwerk**
 
