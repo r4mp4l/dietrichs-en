@@ -99,8 +99,8 @@
 
 
   # Archives
-<!-- * [Dietrich's Intelligent Documentation](README.md) -->
-* [Introduction](archives/<README (1).md>)
+
+* [Introduction](archives/README(1).md)
   * [About Dietrich's](archives/introduction/about-dietrichs.md)
   * [System Requirements](archives/introduction/system-requirements.md)
   * [Installation Guide](archives/introduction/installation-guide.md)
