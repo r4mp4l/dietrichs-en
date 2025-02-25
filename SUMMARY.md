@@ -152,4 +152,6 @@
   * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
   * [WorkPlanes](reference-materials/workplanes.md)
   * [Tutorial](reference-materials/tutorial/README.md)
-  * [BTL Basics](archives/reference-materials/BTLFileFormat.md) -->
+  * [BTL Basics](archives/reference-materials/BTLFileFormat.md)
+  * [IFC Information](archives/reference-materials/IFC.md) 
+  
