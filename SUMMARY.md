@@ -154,4 +154,6 @@
   * [Tutorial](reference-materials/tutorial/README.md)
   * [BTL Basics](archives/reference-materials/BTLFileFormat.md)
   * [IFC Information](archives/reference-materials/IFC/IFC.md) 
+  * [Quick Reference](archives/reference-materials/QuickReference/QuickReference.md) 
+
   
