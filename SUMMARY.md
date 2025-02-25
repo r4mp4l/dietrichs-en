@@ -153,5 +153,5 @@
   * [WorkPlanes](reference-materials/workplanes.md)
   * [Tutorial](reference-materials/tutorial/README.md)
   * [BTL Basics](archives/reference-materials/BTLFileFormat.md)
-  * [IFC Information](archives/reference-materials/IFC.md) 
+  * [IFC Information](archives/reference-materials/IFC/IFC.md) 
   
