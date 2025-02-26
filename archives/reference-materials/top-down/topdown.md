@@ -82,7 +82,7 @@ In a bottom-up design approach, the LOD application may differ. The focus is on 
 
 Each methodology has its place depending on the project\'s specific needs, goals, and constraints. Top-down design is ideal for projects where user experience and design innovation are paramount. In contrast, bottom-up design is suited for projects prioritizing efficiency, cost-effectiveness, and leveraging existing resources.
 
-### If you are using the top down approach then use the following steps:
+### If you are using the top-down approach in Dietrich's then use the following steps:
 
 1.  Design Building Geometry
 2.  Create Wall, Floor and Roof Guidelines
