@@ -155,5 +155,6 @@
   * [BTL Basics](archives/reference-materials/BTLFileFormat.md)
   * [IFC Information](archives/reference-materials/IFC/IFC.md) 
   * [Quick Reference](archives/reference-materials/QuickReference/QuickReference.md) 
+  * [Smart Tags](archives/reference-materials/smart-tags/smarts-tags-introduction.md) 
 
   
