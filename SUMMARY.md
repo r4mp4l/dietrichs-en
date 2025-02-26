@@ -1,11 +1,9 @@
-
-
-
 # Table of contents
 
 * [Introduction](README.md)
 
 ## Getting Started
+
 * [Start with Dietrichs Technology](1_Start/README.md)
   * [Installation](1_Start/Installation/README.md)
   * [Requirements](1_Start/Requirements/README.md)
@@ -14,6 +12,7 @@
   * [Contact](1_Start/Contact/README.md)
 
 ## Resources
+
 * [Additional Resources](2_Resources/README.md)
   * [Forum](2_Resources/Forum/README.md)
   * [YouTube](2_Resources/YouTube/README.md)
@@ -21,9 +20,11 @@
   * [Training](2_Resources/Training/README.md)
 
 ## Basics
+
 * [Basic Information](3_Basic/README.md)
 
 ## Modeling
+
 * [Model Areas](4_Model/README.md)
   * [Floor Plan](4_Model/Floor_Plan/README.md)
   * [Wall Construction](4_Model/Wall/README.md)
@@ -34,6 +35,7 @@
   * [DICAM](4_Model/DICAM/README.md)
 
 ## Results and Plans
+
 * [Results Overview](5_Results/README.md)
   * [Plans](5_Results/Plans/README.md)
     * [Floor Plans](5_Results/Plans/Floor/README.md)
@@ -57,11 +59,13 @@
     * [Wall Machines](5_Results/Machines/Wall/README.md)
 
 ## Interfaces
+
 * [Interfaces](6_Interfaces/README.md)
   * [Points Cloud](6_Interfaces/Cloud/README.md)
   * [Import/Export](6_Interfaces/Import_Export/README.md)
 
 ## Construction Data
+
 * [Construction Program](7_Construction/README.md)
   * [Material List](7_Construction/Material/README.md)
   * [Measurements](7_Construction/Measurements/README.md)
@@ -73,6 +77,7 @@
     * [Data Export](7_Construction/Export/Data/README.md)
 
 ## Drawing Tools
+
 * [2D Drawing](8_Drawing/README.md)
   * [Drawing Functions](8_Drawing/Functions/README.md)
     * [Points](8_Drawing/Functions/Points/README.md)
@@ -89,6 +94,7 @@
   * [Text](8_Drawing/Text/README.md)
 
 ## Plan Program
+
 * [Plan Program](9_Plan/README.md)
   * [Templates](9_Plan/Templates/README.md)
   * [File Operations](9_Plan/File/README.md)
@@ -96,11 +102,7 @@
     * [Open Plan](9_Plan/File/Open/README.md)
     * [Settings](9_Plan/File/Settings/README.md)
   * [Window Menu](9_Plan/Window/README.md)
-
-
-  # Archives
-
-* [Introduction](archives/README(1).md)
+* [Introduction](plan-program/introduction/README.md)
   * [About Dietrich's](archives/introduction/about-dietrichs.md)
   * [System Requirements](archives/introduction/system-requirements.md)
   * [Installation Guide](archives/introduction/installation-guide.md)
@@ -126,37 +128,35 @@
   * [Working Planes](archives/core-concepts/working-planes.md)
   * [Layers](archives/core-concepts/layers.md)
   * [Co-ordinate System](archives/core-concepts/co-ordinate-system.md)
-* [Drawings](archives/drawings.md)
+* [Drawings](plan-program/drawings.md)
 * [Standard Building Workflow](archives/standard-building-workflow/README.md)
   * [Floor Plan Creation](archives/standard-building-workflow/floor-plan-creation.md)
   * [Wall Creation](archives/standard-building-workflow/wall-creation/README.md)
     * [Wall Geometry](archives/standard-building-workflow/wall-creation/wall-geometry/README.md)
       * [Creating Walls](archives/standard-building-workflow/wall-creation/wall-geometry/creating-walls.md)
       * [Door and Window Opening](archives/standard-building-workflow/wall-creation/wall-geometry/door-and-window-opening.md)
-    * [Wall Materials](standard-building-workflow/wall-creation/wall-materials.md)
-  * [Floor Creation](standard-building-workflow/floor-creation/README.md)
-    * [Floor Geometry](standard-building-workflow/floor-creation/floor-geometry.md)
-    * [Floor Materials](standard-building-workflow/floor-creation/floor-materials.md)
-  * [Roof Creation](standard-building-workflow/roof-creation/README.md)
-    * [Roof Geometry](standard-building-workflow/roof-creation/roof-geometry.md)
-    * [Roof Materials](standard-building-workflow/roof-creation/roof-materials.md)
-* [Profile Based Workflow](profile-based-workflow/README.md)
-  * [Profile Basics](profile-based-workflow/profile-basics.md)
-  * [Building from Profiles](profile-based-workflow/building-from-profiles.md)
-  * [Profile Modifications](profile-based-workflow/profile-modifications.md)
+    * [Wall Materials](plan-program/standard-building-workflow/wall-creation/wall-materials.md)
+  * [Floor Creation](plan-program/standard-building-workflow/floor-creation/README.md)
+    * [Floor Geometry](plan-program/standard-building-workflow/floor-creation/floor-geometry.md)
+    * [Floor Materials](plan-program/standard-building-workflow/floor-creation/floor-materials.md)
+  * [Roof Creation](plan-program/standard-building-workflow/roof-creation/README.md)
+    * [Roof Geometry](plan-program/standard-building-workflow/roof-creation/roof-geometry.md)
+    * [Roof Materials](plan-program/standard-building-workflow/roof-creation/roof-materials.md)
+* [Profile Based Workflow](plan-program/profile-based-workflow/README.md)
+  * [Profile Basics](plan-program/profile-based-workflow/profile-basics.md)
+  * [Building from Profiles](plan-program/profile-based-workflow/building-from-profiles.md)
+  * [Profile Modifications](plan-program/profile-based-workflow/profile-modifications.md)
 * [Drawings](drawings-1.md)
-* [Reference Materials](reference-materials/README.md)
-  * [Dach Help](reference-materials/DachHelp.md)
-  * [DachTragWerkHelp](reference-materials/DachtragwerkHelp.md)
-  * [GrundansichtenHilfe](reference-materials/GrundansichtenHilfe.md)
-  * [Roof Design Tutorial](reference-materials/RoofDesignTutorial.md)
-  * [WorkPlanes](reference-materials/workplanes.md)
-  * [Tutorial](reference-materials/tutorial/README.md)
+* [Reference Materials](plan-program/reference-materials/README.md)
+  * [Dach Help](plan-program/reference-materials/dach-help.md)
+  * [DachTragWerkHelp](plan-program/reference-materials/dachtragwerkhelp.md)
+  * [GrundansichtenHilfe](plan-program/reference-materials/grundansichtenhilfe.md)
+  * [Roof Design Tutorial](plan-program/reference-materials/roof-design-tutorial.md)
+  * [WorkPlanes](plan-program/reference-materials/workplanes.md)
+  * [Tutorial](plan-program/reference-materials/tutorial.md)
   * [BTL Basics](archives/reference-materials/BTLFileFormat.md)
-  * [IFC Information](archives/reference-materials/IFC/IFC.md) 
-  * [Quick Reference](archives/reference-materials/QuickReference/QuickReference.md) 
+  * [IFC Information](archives/reference-materials/IFC/IFC.md)
+  * [Quick Reference](archives/reference-materials/QuickReference/QuickReference.md)
   * [Smart Tags](archives/reference-materials/smart-tags/smarts-tags-introduction.md)
   * [Top Down](archives/reference-materials/top-down/topdown.md)
   * [Work Enviroment](archives/reference-materials/work-environment/work-environment-transfer.md)
-
-  
